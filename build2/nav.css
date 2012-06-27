@@ -1,0 +1,13 @@
+
+/* Basic styling for the step links */
+a.step-link {
+  padding: 5px;
+  background-color: #444;
+  color: #666;
+  text-decoration: none;
+}
+
+a.step-link:hover, a.active {
+  color: #ddd;
+}
+
