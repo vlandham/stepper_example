@@ -2,6 +2,7 @@
 /* Here is our relatively positioned
  * container div to hold the rest of the
  * visualization */
+
 #vis-container {
   position: relative;
   width: 980px;
@@ -12,6 +13,7 @@
 /* All the .annotation-step divs are inside
  * #annotation-steps. z-index ensures annotations
  * stay on top of visualization. */
+
 #annotation-steps {
   position: absolute;
   z-index: 40;
@@ -23,6 +25,7 @@
 
 /* This is where you would create the actual visualization.
  * Right now, lets just change the background color. */
+
 #vis-canvas {
   position: absolute;
   width: 100%;
@@ -33,6 +36,7 @@
 }
 
 /* By default, all annotation-steps are hidden. */
+
 .annotation-step {
   position: absolute;
   display: none;
@@ -40,6 +44,7 @@
 
 /* Finally we can position each annotation exactly how
  * we want. */
+
 .annotation {
   position: absolute;
 }
