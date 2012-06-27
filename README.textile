@@ -1,0 +1,5 @@
+Example project for building a visualization stepper with dynamic annotations.
+
+blog post: "http://vallandingham.me/stepper_steps.html":http://vallandingham.me/stepper_steps.html
+
+final version: "http://vallandingham.me/stepper_example/final/":http://vallandingham.me/stepper_example/final/
